@@ -1,3 +1,4 @@
+Time(sec),VGRF_left_s1,VGRF_left_s2,VGRF_left_s3,VGRF_left_s4,VGRF_left_s5,VGRF_left_s6,VGRF_left_s7,VGRF_left_s8,VGRF_left_s9,VGRF_right_s1,VGRF_right_s2,VGRF_right_s3,VGRF_right_s4,VGRF_right_s5,VGRF_right_s6,VGRF_right_s7,VGRF_right_s8,VGRF_right_s9,Total_force_left,Total_force_right
 0.0100,35.09,9.35,5.83,79.75,12.98,164.12,122.1,262.35,15.95,4.18,3.74,0,0,4.95,3.96,0,691.57,32.78
 0.0200,35.09,7.48,5.83,69.19,10.78,166.54,124.41,266.97,18.26,4.18,3.74,0,0,4.95,3.96,0,686.29,35.09
 0.0300,33.11,7.48,3.85,60.72,10.78,164.12,128.92,274.01,20.57,4.18,3.74,0,0,4.95,3.96,0,682.99,37.4
